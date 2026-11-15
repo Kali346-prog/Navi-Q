@@ -1,4 +1,4 @@
-# SONARQ: Arduino Nano Quantized TinyML Robot
+# Navi-Q: Arduino Nano Quantized TinyML Robot
 
 ## Exact original wiring
 - L298N IN1 D3, IN2 D4, ENA D5 (left motor)
